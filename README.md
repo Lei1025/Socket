@@ -1,6 +1,6 @@
 # Android-Client-Server-Process-Management
 
-**
+
 Report:
 https://docs.google.com/document/d/1Dqhsl8mBaC_kw02APLBqE5KbM7Pbk60SYF3gviZf9yM/edit?usp=sharing
 Slides:
